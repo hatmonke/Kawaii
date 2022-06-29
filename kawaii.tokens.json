@@ -51,11 +51,11 @@
       "symbol": "BUSD",
       "decimals": 18,
       "logoURI": "https://kawaiibsc.io/images/tokens/BUSD.png"
-    }
+  }
   ],
-    "version": {
-    "major": 1,
-    "minor": 1,
+  "version": {
+    "major": 85,
+    "minor": 0,
     "patch": 0
   }
 }
