@@ -6,7 +6,7 @@
   "tokens": [
     {
       "address": "0x909DC42f8e20cb02765F877ba988dE7cf0f9170B",
-      "chainId": 1,
+      "chainId": 56,
       "name": "KAWAII",
       "symbol": "KAWAII",
       "decimals": 18,
@@ -14,7 +14,7 @@
     },
     {
       "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
-      "chainId": 1,
+      "chainId": 56,
       "name": "WrappedBNB",
       "symbol": "WBNB",
       "decimals": 18,
@@ -22,7 +22,7 @@
     },
     {
       "address": "0x55d398326f99059ff775485246999027b3197955",
-      "chainId": 1,
+      "chainId": 56,
       "name": "TetherUSD",
       "symbol": "USDT",
       "decimals": 18,
@@ -30,7 +30,7 @@
     },
     {
       "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
-      "chainId": 1,
+      "chainId": 56,
       "name": "USDCoin",
       "symbol": "USDC",
       "decimals": 18,
@@ -38,7 +38,7 @@
     },
     {
       "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
-      "chainId": 1,
+      "chainId": 56,
       "name": "DaiStablecoin",
       "symbol": "DAI",
       "decimals": 18,
@@ -46,7 +46,7 @@
     },
     {
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-      "chainId": 1,
+      "chainId": 56,
       "name": "Binance USD",
       "symbol": "BUSD",
       "decimals": 18,
@@ -56,6 +56,6 @@
   "version": {
     "major": 1,
     "minor": 3,
-    "patch": 0
+    "patch": 1
   }
 }
