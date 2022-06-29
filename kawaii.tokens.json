@@ -1,13 +1,8 @@
 {
   "name": "Kawaii Tokens",
-  "timestamp": "2022-06-27T00:00:00+00:00",
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  },
   "logoURI": "https://kawaiibsc.io/KAWAII.png",
   "keywords": ["kawaii", "default", "list"],
+  "timestamp": "2022-06-27T00:00:00+00:00",
   "tokens": [
     {
       "address": "0x909DC42f8e20cb02765F877ba988dE7cf0f9170B",
@@ -58,4 +53,9 @@
       "logoURI": "https://kawaiibsc.io/images/tokens/BUSD.png"
     }
   ]
+    "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0
+  },
 }
