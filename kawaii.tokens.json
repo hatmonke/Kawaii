@@ -9,7 +9,7 @@
       "chainId": 56,
       "name": "KAWAII",
       "symbol": "KAWAII",
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "https://kawaiibsc.io/images/tokens/SUSHI.png"
     },
     {
@@ -56,6 +56,6 @@
   "version": {
     "major": 1,
     "minor": 3,
-    "patch": 1
+    "patch": 2
   }
 }
